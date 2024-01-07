@@ -1,2 +1,39 @@
 -Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch).
+
+11 commits:
+Commits on Jun 29, 2016
+heat added
+
+@MobDev-Hobby
+boots
+
+@MobDev-Hobby
+dots
+
+@MobDev-Hobby
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+@MeowLenka
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+@MeowLenka
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+
+@MeowLenka
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+
+@MeowLenka
+Merge remote-tracking branch 'origin/hat'
+
+@MeowLenka
+Merge branch 'boots_buttons'
+
+@MeowLenka
+Merge branch 'boots_buttons'
+
+@MeowLenka
+hometask
+
+@MeowLenka
+MeowLenka committed
